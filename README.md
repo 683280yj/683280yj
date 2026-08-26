@@ -2,9 +2,12 @@
 
 # 鲫鱼炖豆腐 · yjun
 
-<img src="https://readme-typing-svg.demolab.com/?lines=前端开发%20%7C%20AI%20产品%20%7C%20效率工具;用代码把重复的事情交给机器;Build%20things%20that%20save%20time&center=true&width=540&height=45&color=38BDF8&vCenter=true&pause=900&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=前端开发+%7C+AI+产品+%7C+效率工具;用代码把重复的事情交给机器;Build+things+that+save+time&center=true&width=540&height=45&color=38BDF8&vCenter=true&pause=900&size=22" />
 
 **前端开发 · AI 产品 · 效率工具** ｜ 把重复的事交给机器
+
+![Profile Views](https://komarev.com/ghpvc/?username=683280yj&label=PROFILE%20VIEWS&color=38BDF8&style=flat-square)
+[![GitHub Follow](https://img.shields.io/github/followers/683280yj?label=Followers&style=social)](https://github.com/683280yj)
 
 </div>
 
@@ -19,8 +22,19 @@
 ## 📊 数据看板
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=683280yj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=683280yj&layout=compact&theme=tokyonight&hide_border=true" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=683280yj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="168" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=683280yj&layout=compact&theme=tokyonight&hide_border=true" height="168" />
+</div>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=683280yj&theme=tokyonight&hide_border=true" height="168" />
+  <img src="https://github-profile-trophy.vercel.app/?username=683280yj&theme=tokyonight&column=4&margin-w=10&no-frame=true" height="168" />
+</div>
+
+## 🐍 贡献蛇
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/683280yj/683280yj/master/dist/github-contribution-grid-snake.svg" alt="contribution snake" />
 </div>
 
 ## 🎨 前端作品 / Frontend
@@ -51,6 +65,22 @@
 | [digital-rural-consumption-thesis](https://github.com/683280yj/digital-rural-consumption-thesis) | 数字乡村背景下农村家庭消费行为研究 | Python |
 | [stata-mcp](https://github.com/683280yj/stata-mcp) | 让 LLM 帮你跑 Stata 回归 | Python |
 | [A-General-Empirical-Workflow-for-DID](https://github.com/683280yj/A-General-Empirical-Workflow-for-DID) | DID 实证研究工作流 | — |
+
+## 👥 关注 & 学习对象
+
+> 下面是我常逛 / 学习中真正受益的地方。**（替换成你真正关注的人即可）**
+
+**前端 & 工程**
+- [Poimandres (pmndrs)](https://github.com/pmndrs) — R3F / zustand / jotai 背后的开源 collective，前端与 3D 的审美标杆
+- [Vercel](https://github.com/vercel) — Next.js 与前端工程化的风向标
+
+**AI & 产品**
+- [Hugging Face](https://github.com/huggingface) — 开源 AI 基础设施与社区
+- [langchain-ai](https://github.com/langchain-ai) — LLM 应用框架的事实标准之一
+
+**经管实证 & 数据**
+- [CoPaper.AI / Stanford REAP](https://github.com/683280yj/Auto-Empirical-Research-Skills) — 实证研究技能库（我 fork 并持续学习）
+- [CFPS 中国家庭追踪调查](https://www.isss.pku.edu.cn/cfps/) — 农村消费结构研究的底层数据
 
 ## 📐 我的开发规范
 
