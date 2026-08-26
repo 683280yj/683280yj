@@ -2,11 +2,11 @@
 
 # 鲫鱼炖豆腐 · yjun
 
-<img src="https://readme-typing-svg.demolab.com/?lines=前端开发+%7C+AI+产品+%7C+效率工具;用代码把重复的事情交给机器;Build+things+that+save+time&center=true&width=540&height=45&color=38BDF8&vCenter=true&pause=900&size=22" />
+<img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Dev+%7C+AI+Product+%7C+Tools;Automate+the+boring+stuff;Build+things+that+save+time&center=true&width=540&height=45&color=38BDF8&vCenter=true&pause=900&size=22" />
 
 **前端开发 · AI 产品 · 效率工具** ｜ 把重复的事交给机器
 
-![Profile Views](https://komarev.com/ghpvc/?username=683280yj&label=PROFILE%20VIEWS&color=38BDF8&style=flat-square)
+[![Profile Views](https://komarev.com/ghpvc/?username=683280yj&label=PROFILE%20VIEWS&color=38BDF8&style=flat-square)](https://github.com/683280yj)
 [![GitHub Follow](https://img.shields.io/github/followers/683280yj?label=Followers&style=social)](https://github.com/683280yj)
 
 </div>
@@ -19,22 +19,17 @@
   <img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,vite,html,css,js,python,figma,git,cloudflare&perline=6" />
 </div>
 
-## 📊 数据看板
+## 📊 数据看板 / Metrics
+
+<!-- 由 lowlighter/metrics Action 自动生成，零外部依赖 -->
+<p align="center">
+  <img src="metrics.svg" alt="GitHub Metrics" />
+</p>
+
+## 🐍 贡献蛇 / Snake
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=683280yj&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="168" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=683280yj&layout=compact&theme=tokyonight&hide_border=true" height="168" />
-</div>
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=683280yj&theme=tokyonight&hide_border=true" height="168" />
-  <img src="https://github-profile-trophy.vercel.app/?username=683280yj&theme=tokyonight&column=4&margin-w=10&no-frame=true" height="168" />
-</div>
-
-## 🐍 贡献蛇
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/683280yj/683280yj/master/dist/github-contribution-grid-snake.svg" alt="contribution snake" />
+  <img src="dist/github-contribution-grid-snake.svg" alt="contribution snake" />
 </div>
 
 ## 🎨 前端作品 / Frontend
@@ -68,21 +63,21 @@
 
 ## 👥 关注 & 学习对象
 
-> 下面是我常逛 / 学习中真正受益的地方。**（替换成你真正关注的人即可）**
-
 **前端 & 工程**
 - [Poimandres (pmndrs)](https://github.com/pmndrs) — R3F / zustand / jotai 背后的开源 collective，前端与 3D 的审美标杆
 - [Vercel](https://github.com/vercel) — Next.js 与前端工程化的风向标
+- [Evan You (vuejs)](https://github.com/vuejs) — 从个人到生态的构建者范本
 
 **AI & 产品**
 - [Hugging Face](https://github.com/huggingface) — 开源 AI 基础设施与社区
 - [langchain-ai](https://github.com/langchain-ai) — LLM 应用框架的事实标准之一
+- [OpenAI](https://github.com/openai) — API-first 产品化思路值得学
 
 **经管实证 & 数据**
-- [CoPaper.AI / Stanford REAP](https://github.com/683280yj/Auto-Empirical-Research-Skills) — 实证研究技能库（我 fork 并持续学习）
+- [CoPaper.AI / Stanford REAP](https://github.com/683280yj/Auto-Empirical-Research-Skills) — 实证研究技能库（持续学习）
 - [CFPS 中国家庭追踪调查](https://www.isss.pku.edu.cn/cfps/) — 农村消费结构研究的底层数据
 
-## 📐 我的开发规范
+## 📐 开发规范
 
 - **能自动化就自动化**：重复操作写成脚本 / Action，不手动跑第二遍
 - **先跑通再美化**：功能可用优先，最后统一清理与优化代码
